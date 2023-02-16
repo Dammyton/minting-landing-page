@@ -19,7 +19,7 @@ const About = () => {
             autoStart: true,
             loop: true,
             // Pause the typewriter indefinitely
-            pauseFor: Number.POSITIVE_INFINITY,
+            pauseFor: 2000000000,
             wrapperClassName: "content",
             cursorClassName: "content",
           }}
